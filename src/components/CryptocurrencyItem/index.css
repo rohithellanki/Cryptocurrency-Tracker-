@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.two {
+  background-color: black;
+}
+.currency-logo {
+  height: 44%;
+  width: 24%;
+  padding-top: 30px;
+}
+.currency-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: black;
+  width: 70vw;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 30px;
+  flex-grow: grow;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  color: white;
+}
+.value-container {
+  display: flex;
+  flex-direction: row;
+  color: white;
+}

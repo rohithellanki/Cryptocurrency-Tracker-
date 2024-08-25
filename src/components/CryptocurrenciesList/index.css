@@ -1,0 +1,36 @@
+/* Write your CSS code here */
+.headings-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: white;
+  background-color: #092e33;
+  width: 70vw;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 30px;
+}
+.table-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 10px;
+  border-color: #00e7ff;
+}
+.usdname {
+ padding-right: 80px;
+}
+.usd {
+  display: flex;
+  flex-direction: row;
+}
+.coin {
+  display: flex;
+  flex-direction: column;
+}
+.usdname1 
+{
+   padding-right: 10px;
+}
